@@ -20,7 +20,7 @@ Interactive slicers allow users to filter the dashboard by year, region, categor
 
 # Project 2 
 
-**Title:** [SQL Data Definition Language-Sales Manager
+**Title:** SQL Data Definition Language-Sales Manager
 
 **SQL Code:** [Sales Manager](https://github.com/meshmeso/meshmeso.github.io/blob/main/Sales_Manager.SQL)
 
