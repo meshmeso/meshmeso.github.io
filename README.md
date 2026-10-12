@@ -36,7 +36,7 @@ Interactive slicers allow users to filter the dashboard by year, region, categor
 
 **Title:** HM Registration Data Analysis
 
-**Python Code** 
+**Python Code** [View Python Code](https://github.com/meshmeso/meshmeso.github.io/commit/5137e79c7677a2783280b95f26887c8cab98a8b6)
 
 **Python Tools and Technologies used:** Google Colab, Pandas, NumPy, Matplotlib, Plotly Express
 
@@ -49,6 +49,8 @@ Incorporation patterns: January was the most common incorporation month, with 5,
 Turnover consistency: Healthcare showed the most consistent year-on-year turnover growth, remaining close to 10% between 2023 and 2026.
 Geographical distribution: The UK accounted for 50,093 companies (99.2% of the cleaned dataset). Sweden recorded the highest observed country average turnover at £1.84 million.
 Trends over time: Company incorporations increased from 3,456 in 2021 to 6,653 in 2024. The 2026 figures were incomplete, with only 12 records.
+
+**Project Powerpoint Report:** [View Powerpoint report](https://github.com/meshmeso/meshmeso.github.io/commit/99c0369f543880ef09dfcb4a620d8feeb9d7db63)
 
 **Conclusion:** The analysis demonstrates how company registration data can be used to identify differences in sector performance, understand incorporation trends and examine turnover patterns across time and geography. It also highlights the importance of data quality and interpreting incomplete data carefully when drawing business conclusions.
 
