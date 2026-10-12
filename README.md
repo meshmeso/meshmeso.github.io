@@ -54,3 +54,18 @@ Trends over time: Company incorporations increased from 3,456 in 2021 to 6,653 i
 
 **Conclusion:** The analysis demonstrates how company registration data can be used to identify differences in sector performance, understand incorporation trends and examine turnover patterns across time and geography. It also highlights the importance of data quality and interpreting incomplete data carefully when drawing business conclusions.
 
+
+# Project 4
+
+**Title:** Customer, Salesperson and Order Data Analysis
+
+**SQL Code:** [customer, salesperson analysis](https://github.com/meshmeso/meshmeso.github.io/blob/main/Customer_Saleperson)
+
+**SQL Tools:** SQL Server Management Studio (SSMS)
+
+**SQL Skills Used:** SQL Joins (INNER, LEFT and FULL OUTER JOIN), CROSS JOIN, filtering with WHERE, sorting with ORDER BY, conditional logic using CASE statements, NULL handling, and relational data analysis.
+
+**Project Description:** Analysed customer, salesperson and order data using SQL to explore relationships between customers, salespeople and transactions. Developed queries to identify customers and salespeople in the same or different cities, filter orders by purchase amount, examine salesperson commissions, and identify customers with or without orders. Used different join types, filtering conditions and conditional logic to generate reports and investigate relationships across the three tables.
+
+**Technology Used:** Microsoft SQL Server
+
