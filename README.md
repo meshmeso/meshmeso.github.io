@@ -69,3 +69,16 @@ Trends over time: Company incorporations increased from 3,456 in 2021 to 6,653 i
 
 **Technology Used:** Microsoft SQL Server
 
+# Project 5
+
+**Title:** [Lushdrive Superstore Performance Dashboard](https://github.com/meshmeso/meshmeso.github.io/blob/main/Lush%20stores.pbix)
+
+**Tools Used:** Microsoft Power BI (Power Query, Data Cleaning and Transformation, Data Modelling, DAX, KPI Cards, Bar Charts, Pie Charts, Time-Series Visualisation, Slicers, Interactive Filters, Dashboard Design & Visualisation).
+
+**Project Description:** The aim of this dashboard was to analyse Lushdrive Superstore’s sales and operational performance between 2022 and 2023. The dashboard provides insights into shipping preferences, customer segment contributions, country-level profitability, and annual shipping costs. Interactive filters for order date, state, and order priority allow users to explore performance across different time periods and business segments, supporting data-driven decision-making.
+
+**Key Findings:** The Consumer segment contributed the largest share of total sales at 54.07%, followed by Corporate at 27.83% and Home Office at 18.11%. Standard Class was the most frequently used shipping mode, followed by Second Class, First Class, and Same Day delivery. The United States recorded the highest profit among the top 10 countries displayed, followed by China and Australia. Shipping costs fluctuated throughout the period, with noticeable peaks in late 2022 and during 2023. The dashboard displayed total sales of 3.81M and approximately 15.5K orders under the selected filters. Users can interact with the date range, state selector, and order-priority filters to investigate performance and identify operational trends.
+
+**Dashboard Overview:** 
+![LUSH](Lush.png)
+
