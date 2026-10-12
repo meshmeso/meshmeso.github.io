@@ -32,3 +32,23 @@ Interactive slicers allow users to filter the dashboard by year, region, categor
 
 **Technology used:** Microsoft SQL Server
 
+# Project 3
+
+**Title:** HM Registration Data Analysis
+
+**Python Code** 
+
+**Python Tools and Technologies used:** Google Colab, Pandas, NumPy, Matplotlib, Plotly Express
+
+**Python Skills Used:** Data Cleaning and preprocessing, Exploratory Data Analysis, Data Visualisation, Statistical Analysis, Python programming
+
+**Project Description:** This project analyses company registration data to identify trends in business turnover, industry performance, incorporation patterns and geographical distribution. Using Python, I cleaned and prepared the dataset, engineered features and conducted exploratory data analysis to answer four key business questions.
+
+**Key Findings:** Sector performance: Construction recorded the highest average turnover per company at £3.17 million, while the Other sector accounted for the largest number of companies, with 33,026 records (65.4%).
+Incorporation patterns: January was the most common incorporation month, with 5,101 companies. However, peak incorporation months varied across sectors.
+Turnover consistency: Healthcare showed the most consistent year-on-year turnover growth, remaining close to 10% between 2023 and 2026.
+Geographical distribution: The UK accounted for 50,093 companies (99.2% of the cleaned dataset). Sweden recorded the highest observed country average turnover at £1.84 million.
+Trends over time: Company incorporations increased from 3,456 in 2021 to 6,653 in 2024. The 2026 figures were incomplete, with only 12 records.
+
+**Conclusion:** The analysis demonstrates how company registration data can be used to identify differences in sector performance, understand incorporation trends and examine turnover patterns across time and geography. It also highlights the importance of data quality and interpreting incomplete data carefully when drawing business conclusions.
+
